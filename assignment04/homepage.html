@@ -1,0 +1,25 @@
+<html lang="en">
+    <head>
+        <meta charset="/UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lockdown</title> 
+        <link rel="stylesheet" href="home.css">
+    </head>
+    <body>
+        <h1>Lockdown</h1>
+        <main id="main-holder">
+            <h2>Add Record</h2>
+            <form action="record.cgi" method="POST">
+                <input type="text" name="lockdownuser" id="username-field" class="login-form-field" placeholder="Lockdown Username">
+                <input type="text" name="account" id="username-field" class="login-form-field" placeholder="Account Name">
+                <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Account Username">
+                <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
+                <input type="submit" value="Add Record" id="login-form-submit">
+            </form>
+            <form action="db.cgi" method="POST">
+                <input type="text" name="lockdownuser" id="username-field" class="login-form-field" placeholder="Lockdown Username">
+                <input type="submit" value="View Records" id="login-form-submit">
+            </form>
+        </main>
+    </body>
+</html>
