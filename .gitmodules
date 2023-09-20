@@ -1,0 +1,9 @@
+[submodule "assignment1"]
+	path = assignment1
+	url = https://github.com/cse278abcd-assignments/assignment1-max-dupler.git
+[submodule "assignment2"]
+	path = assignment2
+	url = https://github.com/cse278abcd-assignments/assignment2-max-dupler.git
+[submodule "assignment3"]
+	path = assignment3
+	url = https://github.com/cse278abcd-assignments/assignment3-max-dupler.git
