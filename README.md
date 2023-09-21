@@ -6,8 +6,6 @@ Principles of Von Neumann computer architecture through the C++ programming lang
 
 ## Course Structure
 
-**12 Labs**: Labs are small projects meant to demonstrate understanding of the previous week's content
-
 **4 Projects**: Larger projects meant to combine all course concepts up to that point.
 
 ### Disclaimer
